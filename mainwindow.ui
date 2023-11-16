@@ -14,12 +14,12 @@
    <string>MainWindow</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QWidget" name="">
+   <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
       <x>70</x>
       <y>100</y>
-      <width>301</width>
+      <width>377</width>
       <height>91</height>
      </rect>
     </property>
@@ -37,7 +37,7 @@
      <item row="0" column="0">
       <widget class="QLabel" name="label_2">
        <property name="text">
-        <string>Program working only with digits!</string>
+        <string>Program working only with digits separated by spaces!</string>
        </property>
       </widget>
      </item>
